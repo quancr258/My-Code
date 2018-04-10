@@ -1,0 +1,16 @@
+-----------------------------------------
+***Bai lam FIFO:
+ 0  =  1  =  P1  =  =  5  =  7  =  =  P2  =  =  12  =  14  =  P3  =  17 
+Ten tien trinh | Thoi gian WT | Thoi gian TA
+        P1              0              4
+        P2              6             11
+        P3             13             16
+Thoi gian cho trung binh cua qua trinh FIFO: 6.333333
+-----------------------------------------
+***Bai lam SJF:
+ 0  =  1  =  P3  =  4  =  6  =  P1  =  =  10  =  12  =  =  P2  =  =  17 
+Ten tien trinh | Thoi gian WT | Thoi gian TA
+        P3              0              3
+        P1              5              9
+        P2             11             16
+Thoi gian cho trung binh cua qua trinh SJF: 5.333333
